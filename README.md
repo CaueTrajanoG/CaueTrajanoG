@@ -1,4 +1,4 @@
-# ***Oi! Aceita um café? ***  ✌(ツ)☕
+# ***Oi! Aceita um café?***  ✌(ツ)☕
 ---
 ## Meu nome é Caue Trajano     
 
