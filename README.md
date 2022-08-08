@@ -2,7 +2,7 @@
 ---
 ## Meu nome é Caue Trajano     
 
-Sou estudante e estou aprendendo por conta própria
+Sou autodidata e estou aprendendo por conta própria
 como funciona esse mundo do TI.
 
 ## Tecnologias que estudo atualmente:
