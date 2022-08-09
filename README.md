@@ -5,18 +5,22 @@
 Sou autodidata e estou aprendendo por conta própria
 como funciona esse mundo do TI.
 
-## Tecnologias que estudo atualmente:
+
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/caue_trajano/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/caue-trajano-41420a240/)
+
+## Tecnologias que pratico atualmente:
 
 * Java ☕
-* Versionamento de código git 🐙
+* Versionamento  git 🐙
 * MySQL 🐬
 * Spring Boot 🌿
 
-## Futuramente pretendo aprender:
+## Em vista :
 
 * MongoDB 🍃
 * Html/CSS ✴5️⃣
 * JavaScript 🟨
 * Angular 🅰
 
-![6Hmb](https://user-images.githubusercontent.com/106395076/179868658-f635daf7-4173-405e-a5fc-f0034078577a.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
