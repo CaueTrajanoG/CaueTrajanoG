@@ -2,7 +2,12 @@
 ---
 ## Meu nome é Caue Trajano     
 
-Estudo java e pretendo me tornar um desenvolvedor daqueles que com certeza você quer no seu time.
+Estudo Java e pretendo me tornar um desenvolvedor daqueles que com certeza você quer no seu time.
+
+Meus repositorios ainda estão meio vazios
+pois estou com uma carga alta de estudos, 
+mas logo logo pretendo postar meus 
+progressos de aprendizado.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/caue_trajano/)
