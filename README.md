@@ -10,7 +10,7 @@ mas logo logo pretendo postar meus
 progressos de aprendizado.
 
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/caue_trajano/)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/caue-trajano-41420a240/)
 
 ## Stacks atuais:
