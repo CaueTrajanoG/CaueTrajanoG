@@ -4,7 +4,7 @@
 
 Estudo Java e pretendo me tornar um desenvolvedor daqueles que com certeza você quer no seu time.
 
-Meus repositorios ainda estão meio vazios
+Meus repositórios ainda estão meio fracos
 pois estou com uma carga alta de estudos, 
 mas estou aprendendo a postar mais.
 
