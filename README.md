@@ -6,8 +6,7 @@ Estudo Java e pretendo me tornar um desenvolvedor daqueles que com certeza você
 
 Meus repositorios ainda estão meio vazios
 pois estou com uma carga alta de estudos, 
-mas logo logo pretendo postar meus 
-progressos de aprendizado.
+mas estou aprendendo a postar mais.
 
 
 
@@ -18,13 +17,13 @@ progressos de aprendizado.
 * Java ☕
 * Versionamento  git 🐙
 * MySQL 🐬
-* Spring Boot 🌿
+* Html/CSS ✴5️⃣
 
 ## Em vista :
 
-* MongoDB 🍃
-* Html/CSS ✴5️⃣
-* JavaScript 🟨
 * Angular 🅰
+* Spring Boot 🌿
+* JavaScript 🟨
+* MongoDB 🍃
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
