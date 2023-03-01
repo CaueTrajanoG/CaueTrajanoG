@@ -1,7 +1,7 @@
 # ***Oi***  ✌(ツ)☕
 ---
 ## Meu nome é Caue Trajano     
-Curso Sistemas para internet e pretendo ser WebDeveloper, (e GameDeveloper nas horas vagas, mas isso é segredo shhhhh)
+Curso Sistemas para internet e pretendo ser WebDeveloper
 
 -Possuo conhecimento na linguagem java usando orientação a objetos.
 -Tenho conhecimentos sobre Banco de dados MySql e CRUD em geral.
