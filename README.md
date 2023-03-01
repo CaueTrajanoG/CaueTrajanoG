@@ -1,7 +1,7 @@
 # ***Oi***  ✌(ツ)☕
 ---
 ## Meu nome é Caue Trajano     
-Este ano pretendo ingressar no superior na area de ti, para extruturar melhor meus conhecimentos e também poder abraçar oportunidades melhores de entrar no mercado com estágios ou projetos acadêmicos.
+Curso Sistemas para internet e pretendo ser WebDeveloper, (e GameDeveloper nas horas vagas, mas isso é segredo shhhhh)
 
 -Possuo conhecimento na linguagem java usando orientação a objetos.
 -Tenho conhecimentos sobre Banco de dados MySql e CRUD em geral.
