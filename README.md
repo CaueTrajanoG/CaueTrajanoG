@@ -1,7 +1,8 @@
 # ***Oi***  ✌(ツ)☕
 ---
 ## Meu nome é Caue Trajano     
-Curso Sistemas para internet e pretendo ser WebDeveloper, estágiando atualmente em uma empresa de desenvolvimento para web.
+Curso Sistemas para internet no Instituto Federal da Paraíba </br>
+pretendo ser WebDeveloper, estágiando atualmente em uma empresa de desenvolvimento para web.
 
 -Possuo conhecimento na linguagem java usando orientação a objetos.</br>
 -Tenho conhecimentos sobre Banco de dados MySql e CRUD em geral.</br>
@@ -16,7 +17,7 @@ Curso Sistemas para internet e pretendo ser WebDeveloper, estágiando atualmente
 ## Stacks atuais:
 
 * Java ☕
-* Versionamento  git 🐙
+* Versionamento git 🐙
 * MySQL 🐬
 * Html/CSS ✴5️⃣
 
