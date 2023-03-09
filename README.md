@@ -1,15 +1,15 @@
 # ***Oi***  ✌(ツ)☕
 ---
 ## Meu nome é Caue Trajano     
-Curso Sistemas para internet e pretendo ser WebDeveloper
+Curso Sistemas para internet e pretendo ser WebDeveloper, estágiando atualmente em uma empresa de desenvolvimento para web.
 
--Possuo conhecimento na linguagem java usando orientação a objetos.
+-Possuo conhecimento na linguagem java usando orientação a objetos.</br>
 -Tenho conhecimentos sobre Banco de dados MySql e CRUD em geral.
--Conheço o basico de HTML/CSS.
+-Estou evoluindo no frontEnd.
 -Ultimamente também tenho focado bastante em melhorar minhas proeficienca com Git.
 -Tenho certo dominio do inglês.
 
-Em resumo, até agora meus estudos foram independentes, guiado pela intuição e pelas necessidades que surgiram, mas a algumas semanas ingressei em um projeto/processo seletivo que me proporcionou bastante conhecimento sobre o desenvolvimento web, e esse projeto tem sido meu guia, atualmente estou dando uma mergulhada sobre o frontEnd que inicialmente eu tinha deixado um pouco de lado por ter me encantado mais com o backend e as possibilidades que eu poderia ter com ele, mas cada dia que passa tenho me interessado pelo desenvolvimento web e mobile, logo saber front vai ser essencial, então meus passos planejados estão sendo HTML,CSS, e JSS ao menos pra ter uma base, em seguida angular, e posteriormente voltar ao java, porém com foco em java para WEB.
+
 
 
 
