@@ -20,6 +20,7 @@ pretendo ser WebDeveloper, estágiando atualmente em uma empresa de desenvolvime
 * Versionamento git 🐙
 * MySQL 🐬
 * Html/CSS ✴5️⃣
+* Python 
 
 ## Em desenvolvimento :
 
