@@ -1,4 +1,4 @@
-# ***Hi everyone***  ✌(ツ)☕
+# ***Hello everyone***  ✌(ツ)☕
 ---
 ## Meu nome é Caue Trajano     
 Curso Sistemas para internet no Instituto Federal da Paraíba </br>
