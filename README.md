@@ -2,7 +2,7 @@
 ---
 ## Meu nome é Caue Trajano     
 Curso Sistemas para internet no Instituto Federal da Paraíba </br>
-Inglês marromenos, consigo ler bem mas cometo erros na hora de escrever algumas coisas... To melhorando nisso (ツ)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/caue-trajano-41420a240/)
 
 Email academico: <a href="mailto:caue.gomes@academico.ifpb.edu.br">caue.gomes@academico.ifpb.edu.br</a>
