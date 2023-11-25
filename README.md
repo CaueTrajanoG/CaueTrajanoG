@@ -10,8 +10,8 @@ Email pessoal: <a href="mailto:caue.sw@gmail.com">caue.sw@gmail.com</a>
 
 ## tec's que já pratico:
 
-* Java ☕
 * Python 
+* Java ☕
 * Html/CSS ✴5️⃣
 * JavaScript 🟨
 * TailWind
