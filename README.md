@@ -9,10 +9,9 @@ Email academico: <a href="mailto:caue.gomes@academico.ifpb.edu.br">caue.gomes@ac
 Email pessoal: <a href="mailto:caue.sw@gmail.com">caue.sw@gmail.com</a>
 
 ## tec's que já pratico:
-
+* TypeScript
 * Python 
 * Java ☕
-* Html/CSS ✴5️⃣
-* JavaScript 🟨
+* Spring boot
 * TailWind
-* MySQL 🐬
+* MySQL / PostgreSQL
