@@ -12,7 +12,7 @@
 
 👨‍💻 Atualmente estudando desenvolvimento web fullstack com foco em **Angular**, **TypeScript** e **Spring Boot**  
 🌱 Entusiasta em arquitetura de software, interfaces modernas e código limpo  
-📚 Apaixonado por tecnologia, café e aprender algo novo todos os dias  
+📚 Apaixonado por tecnologia, amendoim e estudar algo novo 
 ⚙️ Explorando integração entre **frontend reativo** e **APIs Java**  
 
 ---
@@ -58,8 +58,8 @@
 ---
 
 ### ☕ Fun fact
-> “O melhor código é aquele que você entende até sem café...  
-> mas o café ajuda bastante.” ☕😄
+> “ Você sabe que o código está bom quando,
+segunda-feira de manhã você entende o que escreveu na sexta à tarde"😄
 
 ---
 
