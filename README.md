@@ -1,17 +1,77 @@
-# ***Hello everyone***  ✌(ツ)☕
+<!-- Banner opcional -->
+<p align="center">
+  <img src="https://i.imgur.com/J0y0M7B.png" alt="banner" width="100%">
+</p>
+
+<h1 align="center">👋 Hey, I'm <strong>Caue Trajano</strong></h1>
+
+<p align="center">
+  💻 <strong>Developer | Student | Coffee lover ☕</strong><br>
+  🎓 Sistemas para Internet — <a href="https://www.ifpb.edu.br/">IFPB</a>
+</p>
+
 ---
-##  Caue Trajano     
-Sistemas para internet no Instituto Federal da Paraíba </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/caue-trajano-41420a240/)
+### 🚀 About me
 
-Email academico: <a href="mailto:caue.gomes@academico.ifpb.edu.br">caue.gomes@academico.ifpb.edu.br</a>
-Email pessoal: <a href="mailto:caue.sw@gmail.com">caue.sw@gmail.com</a>
+👨‍💻 Atualmente estudando desenvolvimento web fullstack com foco em **Angular**, **TypeScript** e **Spring Boot**  
+🌱 Entusiasta em arquitetura de software, interfaces modernas e código limpo  
+📚 Apaixonado por tecnologia, café e aprender algo novo todos os dias  
+⚙️ Explorando integração entre **frontend reativo** e **APIs Java**  
 
-## tec's que já pratico:
-* TypeScript
-* Python 
-* Java ☕
-* Spring boot
-* TailWind
-* MySQL / PostgreSQL
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+
+#### 💡 Languages & Frameworks  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### 🎨 Frontend & Styling  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🗃️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/caue-trajano-41420a240/">
+    <img src="https://img.shields.io/badge/-Caue%20Trajano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:caue.gomes@academico.ifpb.edu.br">
+    <img src="https://img.shields.io/badge/-Email%20Acadêmico-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:caue.sw@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Pessoal-555555?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ☕ Fun fact
+> “O melhor código é aquele que você entende até sem café...  
+> mas o café ajuda bastante.” ☕😄
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaueTrajanoG&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueTrajanoG&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<p align="center">⭐ Se curtiu, dá uma olhada nos meus repositórios e deixa uma estrela!</p>
