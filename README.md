@@ -1,8 +1,4 @@
 <!-- Banner opcional -->
-<p align="center">
-  <img src="https://i.imgur.com/J0y0M7B.png" alt="banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hey, I'm <strong>Caue Trajano</strong></h1>
 
 <p align="center">
