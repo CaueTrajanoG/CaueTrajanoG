@@ -10,9 +10,9 @@
 
 ### 🚀 About me
 
-👨‍💻 Atualmente estudando desenvolvimento web fullstack com foco em **Angular**, **TypeScript** e **Spring Boot**  
+👨‍💻 Atualmente desenvolvo sistemas web fullstack **Angular**, **TypeScript** e **Spring Boot**  
 🌱 Entusiasta em arquitetura de software, interfaces modernas e código limpo  
-📚 Apaixonado por tecnologia, amendoim e estudar algo novo 
+📚 Apaixonado por tecnologia, amendoim e aprender algo novo 
 
 ⚙️ Explorando integração entre **frontend reativo** e **APIs Java**  
 
