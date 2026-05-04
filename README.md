@@ -64,11 +64,6 @@ segunda-feira de manhã você entende o que escreveu na sexta à tarde"😄
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaueTrajanoG&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueTrajanoG&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
----
 
 <p align="center">⭐ Se curtiu, dá uma olhada nos meus repositórios e deixa uma estrela!</p>
