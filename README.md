@@ -41,7 +41,7 @@
 </div>
 
 ---
-<div>![GitCity](gitcity.jpeg)</div>
+<div>![GitCity](https://github.com/CaueTrajanoG/CaueTrajanoG/blob/main/gitcity.jpeg)</div>
 
 ### 🌐 Connect with me
 
