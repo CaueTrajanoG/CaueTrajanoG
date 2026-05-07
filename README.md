@@ -58,4 +58,4 @@
   </a>
 </p>
 
-<p align="center">⭐ Se curtiu, dá uma olhada nos meus repositórios e deixa uma estrela!</p>
+<p align="center">Manda um alô po pai, to precisando estagiar :D (Sou esforçado) </p>
