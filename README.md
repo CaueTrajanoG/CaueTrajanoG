@@ -41,7 +41,8 @@
 </div>
 
 ---
-<div>![GitCity](https://github.com/CaueTrajanoG/CaueTrajanoG/blob/main/gitcity.jpeg)</div>
+
+<img width="972" height="530" alt="gitcity" src="https://github.com/user-attachments/assets/5d831538-2e1e-4c75-b618-8deac5d1f743" />
 
 ### 🌐 Connect with me
 
