@@ -41,6 +41,7 @@
 </div>
 
 ---
+<div>![GitCity](gitcity.jpeg)</div>
 
 ### 🌐 Connect with me
 
