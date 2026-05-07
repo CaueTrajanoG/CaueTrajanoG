@@ -44,7 +44,7 @@
 
 <img width="972" height="530" alt="gitcity" src="https://github.com/user-attachments/assets/5d831538-2e1e-4c75-b618-8deac5d1f743" />
 
-### 🌐 Connect with me
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caue-trajano-41420a240/">
