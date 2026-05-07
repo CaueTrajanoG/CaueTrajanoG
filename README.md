@@ -56,14 +56,4 @@
   </a>
 </p>
 
----
-
-### ☕ Fun fact
-> “ Você sabe que o código está bom quando,
-segunda-feira de manhã você entende o que escreveu na sexta à tarde"😄
-
----
-
-
-
 <p align="center">⭐ Se curtiu, dá uma olhada nos meus repositórios e deixa uma estrela!</p>
