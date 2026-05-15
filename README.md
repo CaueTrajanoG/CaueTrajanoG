@@ -10,11 +10,10 @@
 
 ### 🚀 About me
 
-👨‍💻 Atualmente desenvolvo sistemas web fullstack **Angular**, **TypeScript** e **Spring Boot**  
-🌱 Entusiasta em arquitetura de software, interfaces modernas e código limpo  
-📚 Apaixonado por tecnologia, amendoim e aprender algo novo 
-
-⚙️ Explorando integração entre **frontend reativo** e **APIs Java**  
+👨‍💻 Desenvolvo soluções web fullstack **Angular** -> **TypeScript**, **Spring Boot** -> **Java**  
+🌱 Arquitetura de software, interfaces modernas e código limpo são uma filosofia.
+📚 Apaixonado por tecnologia, amendoim e sempre aprender coisas novas.
+⚙️ O desenvolvimento de sistemas seguros tem sido meu desafio atual.
 
 ---
 
@@ -58,4 +57,4 @@
   </a>
 </p>
 
-<p align="center">Manda um alô po pai, to precisando estagiar :D (Sou esforçado) </p>
+<p align="center">Manda um alô!!, estou precisando estagiar :D (Sou esforçado) </p>
