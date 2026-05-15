@@ -11,8 +11,11 @@
 ### 🚀 About me
 
 👨‍💻 Desenvolvo soluções web fullstack **Angular** -> **TypeScript**, **Spring Boot** -> **Java**  
+
 🌱 Arquitetura de software, interfaces modernas e código limpo são uma filosofia.
+
 📚 Apaixonado por tecnologia, amendoim e sempre aprender coisas novas.
+
 ⚙️ O desenvolvimento de sistemas seguros tem sido meu desafio atual.
 
 ---
