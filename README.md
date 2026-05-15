@@ -52,11 +52,8 @@
   <a href="https://www.linkedin.com/in/caue-trajano-41420a240/">
     <img src="https://img.shields.io/badge/-Caue%20Trajano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:caue.gomes@academico.ifpb.edu.br">
-    <img src="https://img.shields.io/badge/-Email%20Acadêmico-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="mailto:caue.sw@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Pessoal-555555?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email%20-555555?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
